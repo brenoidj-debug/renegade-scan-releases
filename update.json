@@ -1,7 +1,7 @@
 {
-  "versionCode": 3,
-  "versionName": "0.3.0",
-  "apkUrl": "https://raw.githubusercontent.com/brenoidj-debug/renegade-scan-releases/main/RenegadeScan-0.3.0-debug.apk",
-  "sha256": "23113105947b4904c2b5dbf3807f9c86cf595e9e32d46aa2810cd2c56aa803f3",
-  "notes": "Atualização pelo próprio aplicativo, leitura rápida e gráficos históricos."
+  "versionCode": 4,
+  "versionName": "0.4.0",
+  "apkUrl": "https://raw.githubusercontent.com/brenoidj-debug/renegade-scan-releases/main/RenegadeScan-0.4.0-debug.apk",
+  "sha256": "0b551e6597c8c7b55cf5b80b0b622ce2a347dd3a6c92a249c1c021246aa0c7ee",
+  "notes": "Reconexão automática ao último ELM327 utilizado e modo Demonstração com dados simulados."
 }
