@@ -2,6 +2,6 @@
   "versionCode": 20,
   "versionName": "0.9.7",
   "apkUrl": "https://raw.githubusercontent.com/brenoidj-debug/renegade-scan-releases/main/RenegadeScan-0.9.7-debug.apk",
-  "sha256": "64f9bfbcd7eb8d2cca184f5dac9c2fad3e5736eddf5fa4131a34cf90b60b2af",
+  "sha256": "64f9bfbcd7eb8d2cca184f5dac9c2fad3e5736eddfe5fa4131a34cf90b60b2af",
   "notes": "Comunicação ajustada ao Renegade CAN 29 bits/500 kbaud: protocolo ATSP7, temporização adaptativa, intervalo seguro entre comandos e recuperação automática de leituras congeladas."
 }
