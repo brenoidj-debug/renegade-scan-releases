@@ -1,7 +1,7 @@
 {
-  "versionCode": 29,
-  "versionName": "0.11.4",
-  "apkUrl": "https://raw.githubusercontent.com/brenoidj-debug/renegade-scan-releases/main/RenegadeScan-0.11.4-debug.apk",
-  "sha256": "889aa6b156219585eb3602bbde7ed48c89804a53883220a9a3349b38bfe89250",
-  "notes": "Captura técnica OBD2 acessível pela página Sensores; condições de marcha lenta, 2.000 rpm e rodagem; consultas adicionais de marcha real da transmissão e concentração de NOx."
+  "versionCode": 30,
+  "versionName": "0.11.5",
+  "apkUrl": "https://raw.githubusercontent.com/brenoidj-debug/renegade-scan-releases/main/RenegadeScan-0.11.5-debug.apk",
+  "sha256": "e37b439cb6c49b56db3393a660a5fed6a880aa27fc9ffa4dda07b77402da0bf6",
+  "notes": "Remontagem ISO-TP; temperaturas confirmadas do compressor, turbina, intercooler e DPF; consultas compartilhadas por PID; remoção dos sensores incorretos 0178/0179 e proteção do VIN na captura."
 }
