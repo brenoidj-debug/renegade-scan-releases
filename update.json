@@ -1,7 +1,7 @@
 {
-  "versionCode": 15,
-  "versionName": "0.9.2",
-  "apkUrl": "https://raw.githubusercontent.com/brenoidj-debug/renegade-scan-releases/main/RenegadeScan-0.9.2-debug.apk",
-  "sha256": "fbf0d10142792b9ff1706a2aa0c3db95d89a20337ea1f860ce56a63794a89920",
-  "notes": "Descrições DTC ampliadas, manutenção com pastilhas e líquido de arrefecimento, seleção de sensores dentro do monitoramento, informações de cada parâmetro e página DTC unificada."
+  "versionCode": 16,
+  "versionName": "0.9.3",
+  "apkUrl": "https://raw.githubusercontent.com/brenoidj-debug/renegade-scan-releases/main/RenegadeScan-0.9.3-debug.apk",
+  "sha256": "6d07aba46d881a99f6e03f95480efea7597968b5390f7a7eadfc478283094b3e",
+  "notes": "Detecção automática do início do abastecimento, leitura DTC armazenada/pendente/permanente, apagamento seguro de falhas e demais melhorias da 0.9.3."
 }
