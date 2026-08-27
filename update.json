@@ -1,7 +1,7 @@
 {
-  "versionCode": 21,
-  "versionName": "0.9.8",
-  "apkUrl": "https://raw.githubusercontent.com/brenoidj-debug/renegade-scan-releases/main/RenegadeScan-0.9.8-debug.apk",
-  "sha256": "22063e5e285e914d5b9991b8ab254cc74b95fdd2f5b430dfaa2ff1a7f9faa78b",
-  "notes": "Layout do abastecimento corrigido para textos longos e manutenção ajustada para manter os campos visíveis durante a digitação com o teclado aberto."
+  "versionCode": 22,
+  "versionName": "0.9.9",
+  "apkUrl": "https://raw.githubusercontent.com/brenoidj-debug/renegade-scan-releases/main/RenegadeScan-0.9.9-debug.apk",
+  "sha256": "00d8b5cfc057c277ac7b9b7c0711c923b6f67e4e066ab307c46762f0990a516e",
+  "notes": "Correção do ciclo de reinicialização: respostas NO DATA e PIDs não suportados não são mais tratados como queda do ELM327; recuperação limitada a falhas reais de transporte."
 }
