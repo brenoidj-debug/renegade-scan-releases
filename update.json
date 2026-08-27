@@ -1,7 +1,7 @@
 {
-  "versionCode": 25,
-  "versionName": "0.11.0",
-  "apkUrl": "https://raw.githubusercontent.com/brenoidj-debug/renegade-scan-releases/main/RenegadeScan-0.11.0-debug.apk",
-  "sha256": "e32e13ad4732190193c37ca89a4bc4a606511119df38bca87f9440e549a89e36",
-  "notes": "Novo teste de Dinamômetro digital com gravação manual e curvas de torque e potência por RPM, calculadas a partir dos PIDs de torque da ECU."
+  "versionCode": 26,
+  "versionName": "0.11.1",
+  "apkUrl": "https://raw.githubusercontent.com/brenoidj-debug/renegade-scan-releases/main/RenegadeScan-0.11.1-debug.apk",
+  "sha256": "b72dccd6a9a24cb0dc0b86aa40f93ef80e5a9b070257ba8b67b7492b029a2da5",
+  "notes": "Página Abastecimento com litros consumidos, distância percorrida e consumo médio separados para a sessão atual do aplicativo."
 }
