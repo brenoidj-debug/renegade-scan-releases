@@ -1,7 +1,7 @@
 {
-  "versionCode": 13,
-  "versionName": "0.9.0",
-  "apkUrl": "https://raw.githubusercontent.com/brenoidj-debug/renegade-scan-releases/main/RenegadeScan-0.9.0-debug.apk",
-  "sha256": "ec17be80c0dbcf8b5ede464fb30b224a55861a2c4e3749ae86d6e466c850a34c",
-  "notes": "Leitura de falhas DTC com descrições diesel/OBD, tanque em barra empilhada, gráficos EGR com escala dinâmica e cursor sincronizado sem horário, tentativa de odômetro OBD e manutenção com troca retroativa por data e km."
+  "versionCode": 14,
+  "versionName": "0.9.1",
+  "apkUrl": "https://raw.githubusercontent.com/brenoidj-debug/renegade-scan-releases/main/RenegadeScan-0.9.1-debug.apk",
+  "sha256": "6ace46126677168ddb7177bb50c9b5e34fc56d92d3ca4846a029257f73958699",
+  "notes": "Menu inicial simplificado com Sensores unificado, novos testes de 1 km e frenagem, manutenção por dois botões e remoção da captura FCA/DPF do menu cotidiano."
 }
