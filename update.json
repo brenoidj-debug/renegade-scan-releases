@@ -1,7 +1,7 @@
 {
-  "versionCode": 9,
-  "versionName": "0.7.0",
-  "apkUrl": "https://raw.githubusercontent.com/brenoidj-debug/renegade-scan-releases/main/RenegadeScan-0.7.0-debug.apk",
-  "sha256": "11b3866c8aec27fcba5b63c860bd0ca02eb955bd9b2882cbf972cd87a53c60d6",
-  "notes": "Cursor sincronizado nos gráficos, boost e cálculos de combustível/tanque, sensores diesel forçados e manutenção personalizável com progresso e última troca."
+  "versionCode": 11,
+  "versionName": "0.8.0",
+  "apkUrl": "https://raw.githubusercontent.com/brenoidj-debug/renegade-scan-releases/main/RenegadeScan-0.8.0-debug.apk",
+  "sha256": "a5969b47e378e532311643f42df09f722c4eb4e5392f9035afdf91506b709daf",
+  "notes": "Captura FCA/DPF somente leitura para o Renegade 2.0 Diesel: CAN de 29 bits, ECU lógica 10, quatro condições de teste, respostas brutas e relatório exportável."
 }
