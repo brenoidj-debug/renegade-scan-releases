@@ -1,7 +1,7 @@
 {
-  "versionCode": 5,
-  "versionName": "0.5.0",
-  "apkUrl": "https://raw.githubusercontent.com/brenoidj-debug/renegade-scan-releases/main/RenegadeScan-0.5.0-debug.apk",
-  "sha256": "c45b4a7ed3de244e0ac093cea9203e3a271581fd8bd195aedbf03ede293ba466",
-  "notes": "Novo tema vermelho, descoberta automática de PIDs, painel configurável, diagnóstico e quadro congelado, relatório, viagem, perfil diesel, manutenção e testes de desempenho."
+  "versionCode": 6,
+  "versionName": "0.5.1",
+  "apkUrl": "https://raw.githubusercontent.com/brenoidj-debug/renegade-scan-releases/main/RenegadeScan-0.5.1-debug.apk",
+  "sha256": "9be7891125a0f99392efcb82e59ffc764906afc1b7b7d7fe009c39d8ed4b2996",
+  "notes": "Correção da descoberta encadeada de PIDs, fila serial com frequências por sensor, timeout rigoroso e controle do prompt do ELM327."
 }
