@@ -1,7 +1,7 @@
 {
-  "versionCode": 30,
-  "versionName": "0.11.5",
-  "apkUrl": "https://raw.githubusercontent.com/brenoidj-debug/renegade-scan-releases/main/RenegadeScan-0.11.5-debug.apk",
-  "sha256": "e37b439cb6c49b56db3393a660a5fed6a880aa27fc9ffa4dda07b77402da0bf6",
-  "notes": "Remontagem ISO-TP; temperaturas confirmadas do compressor, turbina, intercooler e DPF; consultas compartilhadas por PID; remoção dos sensores incorretos 0178/0179 e proteção do VIN na captura."
+  "versionCode": 34,
+  "versionName": "0.13.1",
+  "apkUrl": "https://raw.githubusercontent.com/brenoidj-debug/renegade-scan-releases/main/RenegadeScan-0.13.1-debug.apk",
+  "sha256": "6b2ded5099603c0316776871b5bc81cb8ed7426866e0fb7b0ba9f157e7db0e00",
+  "notes": "Percurso GPS com reconciliação GPS/OBD e imagem compartilhável; resumo visual dos testes de desempenho; restauração da resposta calculada da EGR conforme a definição relativa do PID SAE 012D."
 }
