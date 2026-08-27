@@ -1,7 +1,7 @@
 {
-  "versionCode": 12,
-  "versionName": "0.8.1",
-  "apkUrl": "https://raw.githubusercontent.com/brenoidj-debug/renegade-scan-releases/main/RenegadeScan-0.8.1-debug.apk",
-  "sha256": "daa48743e731010d1c467270094485ec4b5ce7b1996a04b0e60d1dc6b3a82c82",
-  "notes": "Corrige a exportação FCA/DPF, reúne pedido/resposta/erro da EGR, adiciona a página Abastecimento com barras do tanque e permite atualizar manualmente os sensores após ligar o motor."
+  "versionCode": 13,
+  "versionName": "0.9.0",
+  "apkUrl": "https://raw.githubusercontent.com/brenoidj-debug/renegade-scan-releases/main/RenegadeScan-0.9.0-debug.apk",
+  "sha256": "ec17be80c0dbcf8b5ede464fb30b224a55861a2c4e3749ae86d6e466c850a34c",
+  "notes": "Leitura de falhas DTC com descrições diesel/OBD, tanque em barra empilhada, gráficos EGR com escala dinâmica e cursor sincronizado sem horário, tentativa de odômetro OBD e manutenção com troca retroativa por data e km."
 }
