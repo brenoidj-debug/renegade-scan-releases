@@ -1,7 +1,7 @@
 {
-  "versionCode": 34,
-  "versionName": "0.13.1",
-  "apkUrl": "https://raw.githubusercontent.com/brenoidj-debug/renegade-scan-releases/main/RenegadeScan-0.13.1-debug.apk",
-  "sha256": "6b2ded5099603c0316776871b5bc81cb8ed7426866e0fb7b0ba9f157e7db0e00",
-  "notes": "Percurso GPS com reconciliação GPS/OBD e imagem compartilhável; resumo visual dos testes de desempenho; restauração da resposta calculada da EGR conforme a definição relativa do PID SAE 012D."
+  "versionCode": 35,
+  "versionName": "0.13.2",
+  "apkUrl": "https://github.com/brenoidj-debug/renegade-scan-releases/releases/download/v0.13.2/RenegadeScan-0.13.2-debug.apk",
+  "sha256": "773e2bd2e652234aec0db6b7344603e7e3ed57529be7bbb0782c90e1a9a25a41",
+  "notes": "Mapa vetorial MapLibre/OpenFreeMap no percurso GPS; velocidade OBD obrigatória para distância e calibração; releitura automática após apagar DTC; resposta calculada da EGR conforme SAE J1979."
 }
