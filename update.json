@@ -1,7 +1,7 @@
 {
-  "versionCode": 23,
-  "versionName": "0.10.0",
-  "apkUrl": "https://raw.githubusercontent.com/brenoidj-debug/renegade-scan-releases/main/RenegadeScan-0.10.0-debug.apk",
-  "sha256": "3afaa97dc48530891c9d1b61e111dc36a88e8c2a1aa71920032eacfa06b60032",
-  "notes": "Conexão Bluetooth restaurada ao fluxo estável: socket único, protocolo automático ATSP0 e sem reinicialização automática durante o monitoramento; filtro visual de dispositivos OBD mantido."
+  "versionCode": 25,
+  "versionName": "0.11.0",
+  "apkUrl": "https://raw.githubusercontent.com/brenoidj-debug/renegade-scan-releases/main/RenegadeScan-0.11.0-debug.apk",
+  "sha256": "e32e13ad4732190193c37ca89a4bc4a606511119df38bca87f9440e549a89e36",
+  "notes": "Novo teste de Dinamômetro digital com gravação manual e curvas de torque e potência por RPM, calculadas a partir dos PIDs de torque da ECU."
 }
