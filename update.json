@@ -1,7 +1,7 @@
 {
-  "versionCode": 18,
-  "versionName": "0.9.5",
-  "apkUrl": "https://raw.githubusercontent.com/brenoidj-debug/renegade-scan-releases/main/RenegadeScan-0.9.5-debug.apk",
-  "sha256": "bde92f1cb09d2dd91c10891bab69a21e1a226acfbd815c24506ed848e8dee140",
-  "notes": "Inicialização ELM327 reforçada com tempos maiores, repetição de comandos, segunda conexão limpa e mensagens de recuperação mais claras."
+  "versionCode": 20,
+  "versionName": "0.9.7",
+  "apkUrl": "https://raw.githubusercontent.com/brenoidj-debug/renegade-scan-releases/main/RenegadeScan-0.9.7-debug.apk",
+  "sha256": "64f9bfbcd7eb8d2cca184f5dac9c2fad3e5736eddf5fa4131a34cf90b60b2af",
+  "notes": "Comunicação ajustada ao Renegade CAN 29 bits/500 kbaud: protocolo ATSP7, temporização adaptativa, intervalo seguro entre comandos e recuperação automática de leituras congeladas."
 }
