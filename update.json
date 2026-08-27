@@ -1,7 +1,7 @@
 {
-  "versionCode": 14,
-  "versionName": "0.9.1",
-  "apkUrl": "https://raw.githubusercontent.com/brenoidj-debug/renegade-scan-releases/main/RenegadeScan-0.9.1-debug.apk",
-  "sha256": "6ace46126677168ddb7177bb50c9b5e34fc56d92d3ca4846a029257f73958699",
-  "notes": "Menu inicial simplificado com Sensores unificado, novos testes de 1 km e frenagem, manutenção por dois botões e remoção da captura FCA/DPF do menu cotidiano."
+  "versionCode": 15,
+  "versionName": "0.9.2",
+  "apkUrl": "https://raw.githubusercontent.com/brenoidj-debug/renegade-scan-releases/main/RenegadeScan-0.9.2-debug.apk",
+  "sha256": "fbf0d10142792b9ff1706a2aa0c3db95d89a20337ea1f860ce56a63794a89920",
+  "notes": "Descrições DTC ampliadas, manutenção com pastilhas e líquido de arrefecimento, seleção de sensores dentro do monitoramento, informações de cada parâmetro e página DTC unificada."
 }
