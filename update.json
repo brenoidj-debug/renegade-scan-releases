@@ -1,7 +1,7 @@
 {
-  "versionCode": 17,
-  "versionName": "0.9.4",
-  "apkUrl": "https://raw.githubusercontent.com/brenoidj-debug/renegade-scan-releases/main/RenegadeScan-0.9.4-debug.apk",
-  "sha256": "9b40919e0f2184cc760963553c362b79abe552bad7262748365b1f4cdac33bbb",
-  "notes": "Correção da fila de polling para manter o monitoramento fluido, consultando somente sensores selecionados e dependências necessárias."
+  "versionCode": 18,
+  "versionName": "0.9.5",
+  "apkUrl": "https://raw.githubusercontent.com/brenoidj-debug/renegade-scan-releases/main/RenegadeScan-0.9.5-debug.apk",
+  "sha256": "bde92f1cb09d2dd91c10891bab69a21e1a226acfbd815c24506ed848e8dee140",
+  "notes": "Inicialização ELM327 reforçada com tempos maiores, repetição de comandos, segunda conexão limpa e mensagens de recuperação mais claras."
 }
