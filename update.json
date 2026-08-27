@@ -1,7 +1,7 @@
 {
-  "versionCode": 26,
-  "versionName": "0.11.1",
-  "apkUrl": "https://raw.githubusercontent.com/brenoidj-debug/renegade-scan-releases/main/RenegadeScan-0.11.1-debug.apk",
-  "sha256": "b72dccd6a9a24cb0dc0b86aa40f93ef80e5a9b070257ba8b67b7492b029a2da5",
-  "notes": "Página Abastecimento com litros consumidos, distância percorrida e consumo médio separados para a sessão atual do aplicativo."
+  "versionCode": 27,
+  "versionName": "0.11.2",
+  "apkUrl": "https://raw.githubusercontent.com/brenoidj-debug/renegade-scan-releases/main/RenegadeScan-0.11.2-debug.apk",
+  "sha256": "e9ff35aa97fae02f17c358767c2d87268234ad169d9d36fc3f0943d18a9ada5d",
+  "notes": "Testes 0–100 e 100 m com início automático acima de 1 km/h e velocidade visível; ícone de retorno em todas as páginas; abastecimento independente da seleção visual de sensores."
 }
