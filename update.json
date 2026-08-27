@@ -1,7 +1,7 @@
 {
-  "versionCode": 11,
-  "versionName": "0.8.0",
-  "apkUrl": "https://raw.githubusercontent.com/brenoidj-debug/renegade-scan-releases/main/RenegadeScan-0.8.0-debug.apk",
-  "sha256": "a5969b47e378e532311643f42df09f722c4eb4e5392f9035afdf91506b709daf",
-  "notes": "Captura FCA/DPF somente leitura para o Renegade 2.0 Diesel: CAN de 29 bits, ECU lógica 10, quatro condições de teste, respostas brutas e relatório exportável."
+  "versionCode": 12,
+  "versionName": "0.8.1",
+  "apkUrl": "https://raw.githubusercontent.com/brenoidj-debug/renegade-scan-releases/main/RenegadeScan-0.8.1-debug.apk",
+  "sha256": "daa48743e731010d1c467270094485ec4b5ce7b1996a04b0e60d1dc6b3a82c82",
+  "notes": "Corrige a exportação FCA/DPF, reúne pedido/resposta/erro da EGR, adiciona a página Abastecimento com barras do tanque e permite atualizar manualmente os sensores após ligar o motor."
 }
