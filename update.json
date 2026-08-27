@@ -1,7 +1,7 @@
 {
-  "versionCode": 28,
-  "versionName": "0.11.3",
-  "apkUrl": "https://raw.githubusercontent.com/brenoidj-debug/renegade-scan-releases/main/RenegadeScan-0.11.3-debug.apk",
-  "sha256": "d392ab18cb10ef4b5d3209fe8e022a1328dc42f460e5e645d17b34e16114be42",
-  "notes": "Descoberta SAE J1979 ampliada até o bloco 01A0; pressão diferencial e temperatura do DPF; captura bruta ampliada para EGR, turbo, escape, DPF, combustível, SCR e odômetro."
+  "versionCode": 29,
+  "versionName": "0.11.4",
+  "apkUrl": "https://raw.githubusercontent.com/brenoidj-debug/renegade-scan-releases/main/RenegadeScan-0.11.4-debug.apk",
+  "sha256": "889aa6b156219585eb3602bbde7ed48c89804a53883220a9a3349b38bfe89250",
+  "notes": "Captura técnica OBD2 acessível pela página Sensores; condições de marcha lenta, 2.000 rpm e rodagem; consultas adicionais de marcha real da transmissão e concentração de NOx."
 }
