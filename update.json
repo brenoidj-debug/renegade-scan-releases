@@ -1,7 +1,7 @@
 {
-  "versionCode": 16,
-  "versionName": "0.9.3",
-  "apkUrl": "https://raw.githubusercontent.com/brenoidj-debug/renegade-scan-releases/main/RenegadeScan-0.9.3-debug.apk",
-  "sha256": "6d07aba46d881a99f6e03f95480efea7597968b5390f7a7eadfc478283094b3e",
-  "notes": "Detecção automática do início do abastecimento, leitura DTC armazenada/pendente/permanente, apagamento seguro de falhas e demais melhorias da 0.9.3."
+  "versionCode": 17,
+  "versionName": "0.9.4",
+  "apkUrl": "https://raw.githubusercontent.com/brenoidj-debug/renegade-scan-releases/main/RenegadeScan-0.9.4-debug.apk",
+  "sha256": "9b40919e0f2184cc760963553c362b79abe552bad7262748365b1f4cdac33bbb",
+  "notes": "Correção da fila de polling para manter o monitoramento fluido, consultando somente sensores selecionados e dependências necessárias."
 }
