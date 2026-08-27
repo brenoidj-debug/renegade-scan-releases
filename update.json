@@ -1,7 +1,7 @@
 {
-  "versionCode": 22,
-  "versionName": "0.9.9",
-  "apkUrl": "https://raw.githubusercontent.com/brenoidj-debug/renegade-scan-releases/main/RenegadeScan-0.9.9-debug.apk",
-  "sha256": "00d8b5cfc057c277ac7b9b7c0711c923b6f67e4e066ab307c46762f0990a516e",
-  "notes": "Correção do ciclo de reinicialização: respostas NO DATA e PIDs não suportados não são mais tratados como queda do ELM327; recuperação limitada a falhas reais de transporte."
+  "versionCode": 23,
+  "versionName": "0.10.0",
+  "apkUrl": "https://raw.githubusercontent.com/brenoidj-debug/renegade-scan-releases/main/RenegadeScan-0.10.0-debug.apk",
+  "sha256": "3afaa97dc48530891c9d1b61e111dc36a88e8c2a1aa71920032eacfa06b60032",
+  "notes": "Conexão Bluetooth restaurada ao fluxo estável: socket único, protocolo automático ATSP0 e sem reinicialização automática durante o monitoramento; filtro visual de dispositivos OBD mantido."
 }
