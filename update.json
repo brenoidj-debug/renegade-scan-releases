@@ -1,7 +1,7 @@
 {
-  "versionCode": 8,
-  "versionName": "0.6.1",
-  "apkUrl": "https://raw.githubusercontent.com/brenoidj-debug/renegade-scan-releases/main/RenegadeScan-0.6.1-debug.apk",
-  "sha256": "31501408bb6dd7d343091913067a5af45af9740123b01ebcc0de7d8bc1861837",
-  "notes": "Telas funcionais expandidas, área segura no topo, gráficos sem cabeçalho com escala Y e cursor arrastável, e ícone ampliado sem borda branca."
+  "versionCode": 9,
+  "versionName": "0.7.0",
+  "apkUrl": "https://raw.githubusercontent.com/brenoidj-debug/renegade-scan-releases/main/RenegadeScan-0.7.0-debug.apk",
+  "sha256": "11b3866c8aec27fcba5b63c860bd0ca02eb955bd9b2882cbf972cd87a53c60d6",
+  "notes": "Cursor sincronizado nos gráficos, boost e cálculos de combustível/tanque, sensores diesel forçados e manutenção personalizável com progresso e última troca."
 }
