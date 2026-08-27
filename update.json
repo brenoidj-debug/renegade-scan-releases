@@ -1,7 +1,7 @@
 {
-  "versionCode": 7,
-  "versionName": "0.6.0",
-  "apkUrl": "https://raw.githubusercontent.com/brenoidj-debug/renegade-scan-releases/main/RenegadeScan-0.6.0-debug.apk",
-  "sha256": "a6753737e4e8389b3299f314db047f1f4ebca731755510ff4a706efe5e9c86ad",
-  "notes": "Novo painel inicial em grade e novo ícone automotivo vermelho exclusivo do Renegade Scan."
+  "versionCode": 8,
+  "versionName": "0.6.1",
+  "apkUrl": "https://raw.githubusercontent.com/brenoidj-debug/renegade-scan-releases/main/RenegadeScan-0.6.1-debug.apk",
+  "sha256": "31501408bb6dd7d343091913067a5af45af9740123b01ebcc0de7d8bc1861837",
+  "notes": "Telas funcionais expandidas, área segura no topo, gráficos sem cabeçalho com escala Y e cursor arrastável, e ícone ampliado sem borda branca."
 }
