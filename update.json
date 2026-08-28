@@ -1,7 +1,7 @@
 {
-  "versionCode": 38,
-  "versionName": "0.13.5",
-  "apkUrl": "https://github.com/brenoidj-debug/renegade-scan-releases/releases/download/v0.13.5/RenegadeScan-0.13.5-debug.apk",
-  "sha256": "6c0401ad95deb5455a349226b02fd8333b6c2a414bf1ecd1c1aa0b5854006224",
-  "notes": "Captura CAN experimental aprimorada: elimina quadros falsos, prepara clones ELM327 com ATCAF0/ATCFC0 e diagnostica quando o monitoramento ATMA é bloqueado pelo adaptador ou gateway."
+  "versionCode": 39,
+  "versionName": "0.13.6",
+  "apkUrl": "https://github.com/brenoidj-debug/renegade-scan-releases/releases/download/v0.13.6/RenegadeScan-0.13.6-debug.apk",
+  "sha256": "0F896040DC942A41F33A978BCA0AF24AB384FE8F489D3FBFA1D02EB8BACD4304",
+  "notes": "Fase 1 consolidada: captura comparativa em quatro rodadas dos PIDs SAE 0175, 0177 e 017C junto de RPM, velocidade, arrefecimento, MAP e temperatura de admissão, mantendo a varredura FCA somente leitura."
 }
