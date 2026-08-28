@@ -1,7 +1,7 @@
 {
-  "versionCode": 46,
-  "versionName": "0.16.0",
-  "apkUrl": "https://github.com/brenoidj-debug/renegade-scan-releases/releases/download/v0.16.0/RenegadeScan-0.16.0-debug.apk",
-  "sha256": "ed22bba5a55125e6666c0b0f1f2839f280c7ec16538c805aa72291c7073c0e4d",
-  "notes": "Fase 1C: GPS automático com a sessão OBD, gráficos de velocidade/distância dentro da viagem e novo gráfico de elevação com legendas e eixo Y."
+  "versionCode": 47,
+  "versionName": "0.16.1",
+  "apkUrl": "https://github.com/brenoidj-debug/renegade-scan-releases/releases/download/v0.16.1/RenegadeScan-0.16.1-debug.apk",
+  "sha256": "0c4aa360c3655dfee4a7efe941e7c1974adb2ea66918b7541aaba63fc65c1d02",
+  "notes": "Remove a página separada de Percurso GPS/Reconciliação; GPS automático, mapa, gráficos e exportações permanecem centralizados em Viagem."
 }
