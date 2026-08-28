@@ -1,7 +1,7 @@
 {
-  "versionCode": 41,
-  "versionName": "0.13.8",
-  "apkUrl": "https://github.com/brenoidj-debug/renegade-scan-releases/releases/download/v0.13.8/RenegadeScan-0.13.8-debug.apk",
-  "sha256": "D122C5C99796F65FEB4BB97EE7801A86EB773E2C4837EABBB4E5417320DD851C",
-  "notes": "Novo gráfico agrupado com até cinco parâmetros e escalas normalizadas; controles de seleção por caixas; métodos de consumo separados entre taxa ECU e estimativa MAF; captura técnica ampliada para registrar explicitamente os PIDs 0110 e 015E."
+  "versionCode": 42,
+  "versionName": "0.14.0",
+  "apkUrl": "https://github.com/brenoidj-debug/renegade-scan-releases/releases/download/v0.14.0/RenegadeScan-0.14.0-debug.apk",
+  "sha256": "0D163802D40B1C2E8A7F6BC747E0F624E97D18F23E32FEE118C2164371DA61D9",
+  "notes": "Fase 1B: histórico persistente, gravação de viagens e parâmetros, eventos de condução/térmicos/sobrepressão, Flight Recorder circular e taxa real de aquisição."
 }
