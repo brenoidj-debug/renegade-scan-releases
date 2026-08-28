@@ -1,7 +1,7 @@
 {
-  "versionCode": 37,
-  "versionName": "0.13.4",
-  "apkUrl": "https://github.com/brenoidj-debug/renegade-scan-releases/releases/download/v0.13.4/RenegadeScan-0.13.4-debug.apk",
-  "sha256": "00d9448b24780bc002cdd433a9494af674660257f4a0dcef11723498bad6ba9b",
-  "notes": "Captura CAN experimental corrigida: testa separadamente CAN 29 e 11 bits, registra limitações do gateway/ELM327, exporta tráfego bruto e restaura automaticamente o protocolo OBD2."
+  "versionCode": 38,
+  "versionName": "0.13.5",
+  "apkUrl": "https://github.com/brenoidj-debug/renegade-scan-releases/releases/download/v0.13.5/RenegadeScan-0.13.5-debug.apk",
+  "sha256": "6c0401ad95deb5455a349226b02fd8333b6c2a414bf1ecd1c1aa0b5854006224",
+  "notes": "Captura CAN experimental aprimorada: elimina quadros falsos, prepara clones ELM327 com ATCAF0/ATCFC0 e diagnostica quando o monitoramento ATMA é bloqueado pelo adaptador ou gateway."
 }
