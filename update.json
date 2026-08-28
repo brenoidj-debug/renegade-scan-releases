@@ -1,7 +1,7 @@
 {
-  "versionCode": 48,
-  "versionName": "0.16.2",
-  "apkUrl": "https://github.com/brenoidj-debug/renegade-scan-releases/releases/download/v0.16.2/RenegadeScan-0.16.2-debug.apk",
-  "sha256": "51980b6ec524376398400d0be1d3d0ba9f411ddfb274a328c550e715d70a6525",
-  "notes": "Corrige resumos de viagem, adiciona média e destino Cidade/UF, completa a imagem compartilhada e corrige a exportação CSV."
+  "versionCode": 49,
+  "versionName": "0.17.0",
+  "apkUrl": "https://github.com/brenoidj-debug/renegade-scan-releases/releases/download/v0.17.0/RenegadeScan-0.17.0-debug.apk",
+  "sha256": "865a8c7ec567266eba9f61e0e7d454946eaf6fb623d8dc6af17439afa8e6c030",
+  "notes": "Simplifica a lista de viagens, abre o detalhamento em tela própria e adiciona o Banco de dados para identificar e excluir arquivos locais."
 }
