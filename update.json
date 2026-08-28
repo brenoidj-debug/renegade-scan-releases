@@ -1,7 +1,7 @@
 {
-  "versionCode": 42,
-  "versionName": "0.14.0",
-  "apkUrl": "https://github.com/brenoidj-debug/renegade-scan-releases/releases/download/v0.14.0/RenegadeScan-0.14.0-debug.apk",
-  "sha256": "0D163802D40B1C2E8A7F6BC747E0F624E97D18F23E32FEE118C2164371DA61D9",
-  "notes": "Fase 1B: histórico persistente, gravação de viagens e parâmetros, eventos de condução/térmicos/sobrepressão, Flight Recorder circular e taxa real de aquisição."
+  "versionCode": 43,
+  "versionName": "0.14.1",
+  "apkUrl": "https://github.com/brenoidj-debug/renegade-scan-releases/releases/download/v0.14.1/RenegadeScan-0.14.1-debug.apk",
+  "sha256": "474ebb01170a685a282460444bdbe55ef1984105563bb41c2ceb401f0c318326",
+  "notes": "Correção visual da Fase 1B: adiciona o acesso à tela Viagem, exibe sempre a taxa real de aquisição no monitoramento e inclui o indicador calculado na página Sensores."
 }
