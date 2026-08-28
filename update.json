@@ -1,7 +1,7 @@
 {
-  "versionCode": 40,
-  "versionName": "0.13.7",
-  "apkUrl": "https://github.com/brenoidj-debug/renegade-scan-releases/releases/download/v0.13.7/RenegadeScan-0.13.7-debug.apk",
-  "sha256": "A628D165D76A248D2A0324C847F9B0D9463CBFBC2549948DB511754A4E4EC63E",
-  "notes": "Fase 1A inicial: classificação visual dos dados como validado, SAE, experimental, calculado ou indisponível; sinais experimentais permanecem visíveis; consumo por taxa informada pela ECU e estimativa independente por MAF."
+  "versionCode": 41,
+  "versionName": "0.13.8",
+  "apkUrl": "https://github.com/brenoidj-debug/renegade-scan-releases/releases/download/v0.13.8/RenegadeScan-0.13.8-debug.apk",
+  "sha256": "D122C5C99796F65FEB4BB97EE7801A86EB773E2C4837EABBB4E5417320DD851C",
+  "notes": "Novo gráfico agrupado com até cinco parâmetros e escalas normalizadas; controles de seleção por caixas; métodos de consumo separados entre taxa ECU e estimativa MAF; captura técnica ampliada para registrar explicitamente os PIDs 0110 e 015E."
 }
