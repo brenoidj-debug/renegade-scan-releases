@@ -1,7 +1,7 @@
 {
-  "versionCode": 43,
-  "versionName": "0.14.1",
-  "apkUrl": "https://github.com/brenoidj-debug/renegade-scan-releases/releases/download/v0.14.1/RenegadeScan-0.14.1-debug.apk",
-  "sha256": "474ebb01170a685a282460444bdbe55ef1984105563bb41c2ceb401f0c318326",
-  "notes": "Correção visual da Fase 1B: adiciona o acesso à tela Viagem, exibe sempre a taxa real de aquisição no monitoramento e inclui o indicador calculado na página Sensores."
+  "versionCode": 44,
+  "versionName": "0.15.0",
+  "apkUrl": "https://github.com/brenoidj-debug/renegade-scan-releases/releases/download/v0.15.0/RenegadeScan-0.15.0-debug.apk",
+  "sha256": "ae2ea3254034cb34917139c6d5365d607d2ab50ec4e963481b5adbed1aef8d4f",
+  "notes": "Início da Fase 1C: detalhes clicáveis por viagem, eventos agrupados em acelerações e frenagens bruscas e persistência de pontos GPS sincronizados com a viagem."
 }
