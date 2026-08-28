@@ -1,7 +1,7 @@
 {
-  "versionCode": 44,
-  "versionName": "0.15.0",
-  "apkUrl": "https://github.com/brenoidj-debug/renegade-scan-releases/releases/download/v0.15.0/RenegadeScan-0.15.0-debug.apk",
-  "sha256": "ae2ea3254034cb34917139c6d5365d607d2ab50ec4e963481b5adbed1aef8d4f",
-  "notes": "Início da Fase 1C: detalhes clicáveis por viagem, eventos agrupados em acelerações e frenagens bruscas e persistência de pontos GPS sincronizados com a viagem."
+  "versionCode": 45,
+  "versionName": "0.15.1",
+  "apkUrl": "https://github.com/brenoidj-debug/renegade-scan-releases/releases/download/v0.15.1/RenegadeScan-0.15.1-debug.apk",
+  "sha256": "15370e2cc1829644621e6942b07b54712225e5db1734149db33d0ada89abf9d3",
+  "notes": "Fase 1C: mapa e exportações por viagem, CSV de sensores, Reconciliação GPS/OBD ampliada e vigilância automática de novos DTCs com contexto."
 }
