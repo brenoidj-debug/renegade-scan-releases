@@ -1,7 +1,7 @@
 {
-  "versionCode": 35,
-  "versionName": "0.13.2",
-  "apkUrl": "https://github.com/brenoidj-debug/renegade-scan-releases/releases/download/v0.13.2/RenegadeScan-0.13.2-debug.apk",
-  "sha256": "773e2bd2e652234aec0db6b7344603e7e3ed57529be7bbb0782c90e1a9a25a41",
-  "notes": "Mapa vetorial MapLibre/OpenFreeMap no percurso GPS; velocidade OBD obrigatória para distância e calibração; releitura automática após apagar DTC; resposta calculada da EGR conforme SAE J1979."
+  "versionCode": 37,
+  "versionName": "0.13.4",
+  "apkUrl": "https://github.com/brenoidj-debug/renegade-scan-releases/releases/download/v0.13.4/RenegadeScan-0.13.4-debug.apk",
+  "sha256": "00d9448b24780bc002cdd433a9494af674660257f4a0dcef11723498bad6ba9b",
+  "notes": "Captura CAN experimental corrigida: testa separadamente CAN 29 e 11 bits, registra limitações do gateway/ELM327, exporta tráfego bruto e restaura automaticamente o protocolo OBD2."
 }
