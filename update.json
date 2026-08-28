@@ -1,7 +1,7 @@
 {
-  "versionCode": 39,
-  "versionName": "0.13.6",
-  "apkUrl": "https://github.com/brenoidj-debug/renegade-scan-releases/releases/download/v0.13.6/RenegadeScan-0.13.6-debug.apk",
-  "sha256": "0F896040DC942A41F33A978BCA0AF24AB384FE8F489D3FBFA1D02EB8BACD4304",
-  "notes": "Fase 1 consolidada: captura comparativa em quatro rodadas dos PIDs SAE 0175, 0177 e 017C junto de RPM, velocidade, arrefecimento, MAP e temperatura de admissão, mantendo a varredura FCA somente leitura."
+  "versionCode": 40,
+  "versionName": "0.13.7",
+  "apkUrl": "https://github.com/brenoidj-debug/renegade-scan-releases/releases/download/v0.13.7/RenegadeScan-0.13.7-debug.apk",
+  "sha256": "A628D165D76A248D2A0324C847F9B0D9463CBFBC2549948DB511754A4E4EC63E",
+  "notes": "Fase 1A inicial: classificação visual dos dados como validado, SAE, experimental, calculado ou indisponível; sinais experimentais permanecem visíveis; consumo por taxa informada pela ECU e estimativa independente por MAF."
 }
