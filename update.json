@@ -1,7 +1,7 @@
 {
-  "versionCode": 51,
-  "versionName": "0.18.1",
-  "apkUrl": "https://github.com/brenoidj-debug/renegade-scan-releases/releases/download/v0.18.1/RenegadeScan-0.18.1-debug.apk",
-  "sha256": "8d6a6247298ed5308ab28992d5c12830c297db7ccb2985a8e099532215d7a0b3",
-  "notes": "Corrige a imagem exportada do mapa, simplifica marcadores, adiciona seleção sincronizada e cores por quartis; calcula consumo pelo nível ECU; melhora exclusão e desempenho de viagens; inclui calendário de falhas e testes esportivos com ranking."
+  "versionCode": 52,
+  "versionName": "0.18.2",
+  "apkUrl": "https://github.com/brenoidj-debug/renegade-scan-releases/releases/download/v0.18.2/RenegadeScan-0.18.2-debug.apk",
+  "sha256": "4174f2fccf16bea5e12ef221d089b5487cf1a39b62dcff6d433436ed16bbb0de",
+  "notes": "Captura o mapa real na imagem exportada e adiciona ícones de início/fim; simplifica a legenda por quartis; suaviza velocidade e aceleração nos testes; acrescenta horário ao ranking; reorganiza o calendário e limpa os métodos de consumo da página Abastecimento."
 }
