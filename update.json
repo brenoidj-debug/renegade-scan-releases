@@ -1,7 +1,7 @@
 {
-  "versionCode": 53,
-  "versionName": "0.18.3",
-  "apkUrl": "https://github.com/brenoidj-debug/renegade-scan-releases/releases/download/v0.18.3/RenegadeScan-0.18.3-debug.apk",
-  "sha256": "c283c2fd32a0d730ebb07fda21289c1d2c53ca48bf67cf1ffe224f42bd3f581e",
-  "notes": "Corrige a distribuição de cores do trajeto para aproximadamente 25% baixo, 50% médio e 25% alto mesmo com valores repetidos, e inclui os valores calculados de Q1 e Q3 na legenda."
+  "versionCode": 54,
+  "versionName": "0.19.0",
+  "apkUrl": "https://github.com/brenoidj-debug/renegade-scan-releases/releases/download/v0.19.0/RenegadeScan-0.19.0-debug.apk",
+  "sha256": "8ada3b920821d6825ec978910a942e35dd0b8925e9f18680bb924dd3136b0f9d",
+  "notes": "Adiciona retenção configurável, vínculo de diagnósticos às viagens, filtros e interrupções de GPS, simplificação de trajetos, cache de mapas e marcação manual."
 }
