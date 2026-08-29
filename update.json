@@ -1,7 +1,7 @@
 {
-  "versionCode": 49,
-  "versionName": "0.17.0",
-  "apkUrl": "https://github.com/brenoidj-debug/renegade-scan-releases/releases/download/v0.17.0/RenegadeScan-0.17.0-debug.apk",
-  "sha256": "865a8c7ec567266eba9f61e0e7d454946eaf6fb623d8dc6af17439afa8e6c030",
-  "notes": "Simplifica a lista de viagens, abre o detalhamento em tela própria e adiciona o Banco de dados para identificar e excluir arquivos locais."
+  "versionCode": 50,
+  "versionName": "0.18.0",
+  "apkUrl": "https://github.com/brenoidj-debug/renegade-scan-releases/releases/download/v0.18.0/RenegadeScan-0.18.0-debug.apk",
+  "sha256": "4433c5fcd62062fca5074f5987f6ea805497c86d1ee6aab5ed72f4aa7a33436c",
+  "notes": "Adiciona renomeação, exclusão e seleção múltipla de viagens; exportação CSV unificada com GPS, sensores, eventos e DTC; marcadores interativos e sincronização entre mapa e gráficos; trajeto colorido por parâmetro."
 }
