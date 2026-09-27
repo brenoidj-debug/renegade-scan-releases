@@ -1,7 +1,7 @@
 {
-  "versionCode": 56,
-  "versionName": "0.20.0",
-  "apkUrl": "https://github.com/brenoidj-debug/renegade-scan-releases/releases/download/v0.20.0/RenegadeScan-0.20.0-debug.apk",
-  "sha256": "f52c5c64277e5920b5ee538666db01b7c91075f2e5a4e327c74331639355c0af",
-  "notes": "Permite encerrar e salvar a viagem sem desconectar o OBD, unifica a seleção da EGR, exibe o erro absoluto em barras, melhora os DTCs P0043/P3843/P3847 e tenta ler a marcha atual diretamente pelo PID SAE 01A4."
+  "versionCode": 82,
+  "versionName": "0.20.2",
+  "apkUrl": "https://github.com/brenoidj-debug/renegade-scan-releases/releases/download/v0.20.2/RenegadeScan-0.20.2-debug.apk",
+  "sha256": "1c22fbe4e86d55976822fdb6de032f99a885ba1f4b981c6782117e378ac0ed5a",
+  "notes": "Corrige a atualização sobre a versão 0.19.27 usando código interno 82 e acrescenta a marcha estimada por aprendizado de RPM e velocidade como alternativa experimental ao PID 01A4."
 }
