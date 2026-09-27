@@ -1,7 +1,7 @@
 {
-  "versionCode": 82,
-  "versionName": "0.20.2",
-  "apkUrl": "https://github.com/brenoidj-debug/renegade-scan-releases/releases/download/v0.20.2/RenegadeScan-0.20.2-debug.apk",
-  "sha256": "1c22fbe4e86d55976822fdb6de032f99a885ba1f4b981c6782117e378ac0ed5a",
-  "notes": "Corrige a atualização sobre a versão 0.19.27 usando código interno 82 e acrescenta a marcha estimada por aprendizado de RPM e velocidade como alternativa experimental ao PID 01A4."
+  "versionCode": 83,
+  "versionName": "0.20.3",
+  "apkUrl": "https://github.com/brenoidj-debug/renegade-scan-releases/releases/download/v0.20.3/RenegadeScan-0.20.3-debug.apk",
+  "sha256": "b746f64f18bd5ab1bf2349cd8e59d39e1b65c94392c2ee4502897c916024ad63",
+  "notes": "Correção emergencial: abre e preserva o banco versão 6 criado pela linha 0.19.27, eliminando o fechamento imediato por tentativa de downgrade do esquema. Inclui o aprendizado experimental de marchas da 0.20.2."
 }
